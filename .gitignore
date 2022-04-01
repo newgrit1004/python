@@ -11,6 +11,7 @@ __pycache__/
 #Custom
 basic/.ipynb_checkpoints
 code_snippet/.ipynb_checkpoints
+code_snippet/*.jpg
 
 # C extensions
 *.so
